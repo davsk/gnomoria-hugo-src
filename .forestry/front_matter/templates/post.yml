@@ -79,3 +79,5 @@ fields:
       max: 
       step: 
   label: Kingdom
+pages:
+- content/post/setting-up.md
