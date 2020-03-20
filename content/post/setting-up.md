@@ -14,3 +14,4 @@ kingdom_season = "Spring"
 kingdom_year = 1
 
 +++
+This is an example of starting out on a huge map, which is 192x192.
