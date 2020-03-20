@@ -1,7 +1,13 @@
 ---
-title: 'We Help Business Grow'
-button: 'Our Work'
-weight: 1
----
+title: Welcome to Gnomoria Guide
+button: Welcome
+weight: "1"
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit. 
+---
+Gnomoria 
+
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you can see can be broken down and rebuilt elsewhere.
+
+Published by Robotronic Games on Feb 23, 2016
+
+Available on Steam
